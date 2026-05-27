@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userctringify",
+        "uuid": 2933640,
+        "checksum": "6sx0e"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
